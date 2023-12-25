@@ -29,7 +29,7 @@
 
     </extensions>
     <actions>
-        <action id="replace all Chinese" class="com.amusez.i18convertjava.ReplaceAllChineseAction"
+        <action id="replace all Chinese" class="com.amusez.i18convertjava.ReplaceAllChineseAction2"
                 text="replace all Chinese" description="replace all Chinese">
             <add-to-group group-id="ToolsMenu" anchor="first"/>
         </action>
